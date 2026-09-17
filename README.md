@@ -17,7 +17,7 @@ The work spans a regulated digital banking launch, a lakehouse migration across 
 |---|---|
 | [platform-investment-case](https://github.com/wanwrick/platform-investment-case) | Build the lakehouse, extend the warehouse, or buy the vendor product? A DCF, a decision tree and a Monte Carlo find that the decision turns on adoption, not architecture. |
 | [pipeline-sla-capacity](https://github.com/wanwrick/pipeline-sla-capacity) | How much capacity holds a 15-minute freshness SLA? Queueing theory says none does, because the service times alone breach it. |
-| [medallion-pipeline](https://github.com/wanwrick/medallion-pipeline) | How do raw events become governed, business-ready tables without a hand-built pipeline per source? |
+| [medallion-pipeline](https://github.com/wanwrick/medallion-pipeline) | How do raw events become governed, business-ready tables without a hand-built pipeline per source, and how do you know when they stop being either? |
 | [ai-data-analyst](https://github.com/wanwrick/ai-data-analyst) | Can a business user get a trustworthy answer from the warehouse in plain language, with the SQL and permissions shown? |
 | [noosphere-public](https://github.com/wanwrick/noosphere-public) | What does an AI work partner need to know about your business before it is useful? |
 
