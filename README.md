@@ -1,67 +1,32 @@
-# Hi, I'm Paroz Mehta
+# Paroz Mehta
 
-**Manager, Data Engineering | Cloud & AI Strategy | Questrade Financial Group**
+**Manager, Forward Deployed Engineering (Producers) at Questrade Financial Group**
 Toronto, Ontario
 
 ---
 
-## What I Do
+## What I work on
 
-I lead data engineering and AI strategy at scale, building platforms that turn raw data into business decisions. My work sits at the intersection of cloud infrastructure, AI/ML enablement, and product thinking.
+I lead a client-facing data engineering squad inside a financial group. We take a business priority, ship the data product that answers it, then hand the pattern back to the platform team so the next team does not need us.
 
-I believe AI PMs should not just write PRDs. They should ship.
+The work spans a regulated digital banking launch, a lakehouse migration across two clouds, and the governance layer that has to hold up to an auditor. Most of what I do now is deciding which problems are worth a platform and which are worth a pattern.
 
----
+## Selected work
 
-## What I Ship
+| Repository | The question it answers |
+|---|---|
+| [medallion-pipeline](https://github.com/wanwrick/medallion-pipeline) | How do raw events become governed, business-ready tables without a hand-built pipeline per source? |
+| [ai-data-analyst](https://github.com/wanwrick/ai-data-analyst) | Can a business user get a trustworthy answer from the warehouse in plain language, with the SQL and permissions shown? |
+| [noosphere-public](https://github.com/wanwrick/noosphere-public) | What does an AI work partner need to know about your business before it is useful? |
 
-### work-os-template
-https://github.com/wanwrick/work-os-template
+Each repository runs on synthetic data and carries no employer detail.
 
-A portable, self-contained knowledge management system that turns Claude into an AI work partner. 29 files. Zero external dependencies. Built for PMs and leaders who want AI that knows their business context, not just generic answers.
+## Background
 
-Fork it, customize it, make it yours.
+Dual Executive MBA, Cornell Johnson and Queen's Smith, conferred May 2026. Databricks, PMI, Scrum Alliance, and Google Cloud credentials.
 
-### medallion-pipeline
-https://github.com/wanwrick/medallion-pipeline
+Platform: Databricks on Azure and GCP, Delta Lake, Unity Catalog, BigQuery, Pub/Sub, Kafka, Power BI, Python, SQL.
 
-Production-grade Medallion Architecture (Bronze/Silver/Gold) on Databricks. DLT, CDC, SCD Type 2, Unity Catalog governance, and Asset Bundles. The data engineering foundation that modern AI products are built on top of.
+## Contact
 
----
-
-## What I am Working On
-
-- Building scalable, production-ready data platforms for AI products
-- Exploring agentic AI workflows and MCP integrations for PM productivity
-- Developing frameworks that make AI practical, not theoretical, for business teams
-- Bridging the gap between data engineering and AI product management
-
----
-
-## My Stack
-
-Data and Cloud: Databricks, Azure, Apache Spark, Delta Lake, dbt, Unity Catalog
-
-AI and Automation: Claude, LLMs, Agentic workflows, MCP, RAG
-
-PM and Strategy: Product Strategy, OKRs, Data Governance, Team Leadership
-
----
-
-## My Approach
-
-The best AI PMs have practical knowledge of AI engineering, not just theoretical understanding. They do not just define the roadmap; they understand the architecture that makes it possible.
-
-Tools are only as good as the person using them. AI is just another tool.
-
----
-
-## Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/paroz-mehta/
-GitHub: https://github.com/wanwrick
-Location: Toronto, Ontario
-
----
-
-A GitHub speaks louder than titles.
+[LinkedIn](https://linkedin.com/in/parozmehta) · parozmehta@gmail.com · Toronto, Ontario
